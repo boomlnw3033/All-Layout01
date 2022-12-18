@@ -1,0 +1,82 @@
+.main2 {
+    background-color: rgb(235, 235, 235);
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.logo_nav2 {
+    background-color: rgb(180, 180, 180);
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.logo2 {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+    padding-left: 10px;
+}
+
+.nav2 {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+    padding-left: 10px;
+}
+
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 25px 35px;
+    margin-bottom: 10px;
+}
+
+.grid-item2 {
+    display: grid;
+    background-color: rgb(180, 180, 180);
+    height: 60px;
+}
+
+.box2 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    gap: 20px;
+}
+
+.box-12 {
+    background-color: rgb(180, 180, 180);
+    height: 300px;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-22 {
+    background-color: rgb(180, 180, 180);
+    height: 300px;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-32 {
+    background-color: rgb(180, 180, 180);
+    height: 300px;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer2 {
+    background-color: rgb(180, 180, 180);
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
